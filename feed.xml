@@ -3,7 +3,7 @@
     <title>Victor Henry</title>
     <link href="https://henryvictor.github.io/case-study/feed.xml" rel="self" />
     <link href="https://henryvictor.github.io/case-study" />
-    <updated>2022-08-23T11:58:48+02:00</updated>
+    <updated>2022-08-23T12:05:23+02:00</updated>
     <author>
         <name>Victor Henry</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://henryvictor.github.io/case-study/cavas-security-app.html"/>
         <id>https://henryvictor.github.io/case-study/cavas-security-app.html</id>
+            <category term="Product Design"/>
 
-        <updated>2022-08-23T11:58:48+02:00</updated>
+        <updated>2022-08-23T12:05:23+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://henryvictor.github.io/case-study/media/posts/1/Cavas_presentation_image.png" alt="" />
