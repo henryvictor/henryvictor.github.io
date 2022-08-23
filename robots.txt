@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://henryvictor.github.io/case-study/sitemap.xml
