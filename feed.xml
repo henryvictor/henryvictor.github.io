@@ -3,7 +3,7 @@
     <title>Victor Henry</title>
     <link href="https://henryvictor.github.io/case-study/feed.xml" rel="self" />
     <link href="https://henryvictor.github.io/case-study" />
-    <updated>2022-08-23T12:05:23+02:00</updated>
+    <updated>2022-08-23T12:41:05+02:00</updated>
     <author>
         <name>Victor Henry</name>
     </author>
@@ -18,16 +18,16 @@
         <id>https://henryvictor.github.io/case-study/cavas-security-app.html</id>
             <category term="Product Design"/>
 
-        <updated>2022-08-23T12:05:23+02:00</updated>
+        <updated>2022-08-23T12:41:05+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://henryvictor.github.io/case-study/media/posts/1/Cavas_presentation_image.png" alt="" />
+                        <img src="https://henryvictor.github.io/case-study/media/posts/1/Cavas_presentation_image2.png" alt="" />
                     La société Cavas développe de nombreux outils de sécurité qu’elle propose à ses clients au travers d’une application SAAS. À&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://henryvictor.github.io/case-study/media/posts/1/Cavas_presentation_image.png" alt="" />
+                    <img src="https://henryvictor.github.io/case-study/media/posts/1/Cavas_presentation_image2.png" alt="" />
                 <p>La société Cavas développe de nombreux outils de sécurité qu’elle propose à ses clients au travers d’une application SAAS. À l’occasion d’une refonte de cette application, j’ai eu l’occasion de participer au développement d’une nouvelle organisation des informations au sein de cette application ainsi qu’à une refonte du parcours et de la navigation.</p>
 <blockquote>
 <p>Le groupe Cavas est un intégrateur de solutions de sécurité depuis plus de 14 ans. Nous proposons à nos clients une offre complète d’installations sur-mesure.</p>
