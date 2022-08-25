@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://henryvictor.github.io/case-study/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://henryvictor.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://henryvictor.github.io/case-study/</loc>
+<loc>https://henryvictor.github.io/</loc>
 </url>
 <url>
-<loc>https://henryvictor.github.io/case-study/cavas-security-app-2.html</loc>
+<loc>https://henryvictor.github.io/cavas-security-app-2.html</loc>
 <lastmod>2022-08-23T20:49:23+02:00</lastmod>
 <image:image>
-<image:loc>https://henryvictor.github.io/case-study/media/posts/3/Cavas_presentation_image2.png</image:loc>
+<image:loc>https://henryvictor.github.io/media/posts/3/Cavas_presentation_image2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://henryvictor.github.io/case-study/cavas-security-app.html</loc>
+<loc>https://henryvictor.github.io/cavas-security-app.html</loc>
 <lastmod>2022-08-23T12:41:05+02:00</lastmod>
 <image:image>
-<image:loc>https://henryvictor.github.io/case-study/media/posts/1/Cavas_presentation_image2.png</image:loc>
+<image:loc>https://henryvictor.github.io/media/posts/1/Cavas_presentation_image2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://henryvictor.github.io/case-study/superhive-collaborative-newsletter.html</loc>
+<loc>https://henryvictor.github.io/superhive-collaborative-newsletter.html</loc>
 <lastmod>2022-08-23T19:30:11+02:00</lastmod>
 <image:image>
-<image:loc>https://henryvictor.github.io/case-study/media/posts/2/SuperHive_presentation_image.png</image:loc>
+<image:loc>https://henryvictor.github.io/media/posts/2/SuperHive_presentation_image.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

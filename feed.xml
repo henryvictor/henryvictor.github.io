@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Victor Henry</title>
-    <link href="https://henryvictor.github.io/case-study/feed.xml" rel="self" />
-    <link href="https://henryvictor.github.io/case-study" />
+    <link href="https://henryvictor.github.io/feed.xml" rel="self" />
+    <link href="https://henryvictor.github.io" />
     <updated>2022-08-23T20:49:23+02:00</updated>
     <author>
         <name>Victor Henry</name>
     </author>
-    <id>https://henryvictor.github.io/case-study</id>
+    <id>https://henryvictor.github.io</id>
 
     <entry>
         <title>Cavas Security App</title>
         <author>
             <name>Victor Henry</name>
         </author>
-        <link href="https://henryvictor.github.io/case-study/cavas-security-app-2.html"/>
-        <id>https://henryvictor.github.io/case-study/cavas-security-app-2.html</id>
+        <link href="https://henryvictor.github.io/cavas-security-app-2.html"/>
+        <id>https://henryvictor.github.io/cavas-security-app-2.html</id>
             <category term="Product Design"/>
 
         <updated>2022-08-23T20:49:23+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://henryvictor.github.io/case-study/media/posts/3/Cavas_presentation_image2.png" alt="" />
+                        <img src="https://henryvictor.github.io/media/posts/3/Cavas_presentation_image2.png" alt="" />
                     La société Cavas développe de nombreux outils de sécurité qu'elle propose à ses clients au travers d'une application SAAS. À&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://henryvictor.github.io/case-study/media/posts/3/Cavas_presentation_image2.png" alt="" />
+                    <img src="https://henryvictor.github.io/media/posts/3/Cavas_presentation_image2.png" alt="" />
                 
   <p>
     La société Cavas développe de nombreux outils de sécurité qu'elle propose à ses clients au travers d'une application SAAS. À l'occasion d'une refonte de cette application, j'ai eu l'occasion de participer au développement d'une nouvelle organisation des informations au sein de cette application ainsi qu'à une refonte du parcours et de la navigation.<br>
@@ -119,7 +119,7 @@ Ces éléments réunis, nous avons été en mesure d'assembler le prototype fina
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://henryvictor.github.io/case-study/media/posts/3/Cavas_Pres.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://henryvictor.github.io/case-study/media/posts/3/responsive/Cavas_Pres-xs.png 384w ,https://henryvictor.github.io/case-study/media/posts/3/responsive/Cavas_Pres-sm.png 600w ,https://henryvictor.github.io/case-study/media/posts/3/responsive/Cavas_Pres-md.png 768w ,https://henryvictor.github.io/case-study/media/posts/3/responsive/Cavas_Pres-lg.png 1200w ,https://henryvictor.github.io/case-study/media/posts/3/responsive/Cavas_Pres-xl.png 1600w"  height="1200" width="1600" alt="" />
+      <img loading="lazy" src="https://henryvictor.github.io/media/posts/3/Cavas_Pres.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://henryvictor.github.io/media/posts/3/responsive/Cavas_Pres-xs.png 384w ,https://henryvictor.github.io/media/posts/3/responsive/Cavas_Pres-sm.png 600w ,https://henryvictor.github.io/media/posts/3/responsive/Cavas_Pres-md.png 768w ,https://henryvictor.github.io/media/posts/3/responsive/Cavas_Pres-lg.png 1200w ,https://henryvictor.github.io/media/posts/3/responsive/Cavas_Pres-xl.png 1600w"  height="1200" width="1600" alt="" />
       
     </figure>
 
@@ -142,20 +142,20 @@ Ces éléments réunis, nous avons été en mesure d'assembler le prototype fina
         <author>
             <name>Victor Henry</name>
         </author>
-        <link href="https://henryvictor.github.io/case-study/superhive-collaborative-newsletter.html"/>
-        <id>https://henryvictor.github.io/case-study/superhive-collaborative-newsletter.html</id>
+        <link href="https://henryvictor.github.io/superhive-collaborative-newsletter.html"/>
+        <id>https://henryvictor.github.io/superhive-collaborative-newsletter.html</id>
             <category term="Product Design"/>
 
         <updated>2022-08-23T19:30:11+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://henryvictor.github.io/case-study/media/posts/2/SuperHive_presentation_image.png" alt="" />
+                        <img src="https://henryvictor.github.io/media/posts/2/SuperHive_presentation_image.png" alt="" />
                     SuperHive est une solution de newsletter collaborative qui permet à ses clients de récolter des avis, des demandes ou encore&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://henryvictor.github.io/case-study/media/posts/2/SuperHive_presentation_image.png" alt="" />
+                    <img src="https://henryvictor.github.io/media/posts/2/SuperHive_presentation_image.png" alt="" />
                 
   <p>
     SuperHive est une solution de newsletter collaborative qui permet à ses clients de récolter des avis, des demandes ou encore des propositions sous forme de posts. Ces posts sont ensuite agrégés par un administrateur et publiés dans une newsletter envoyée à tous les membres d'une communauté donnée. La nouveauté, c'est que les posts des membres de la communauté sont recueillis au sein même de la newsletter, par le biais de formulaires intégrés au mail.
@@ -271,7 +271,7 @@ Ces éléments réunis, nous avons été en mesure d'assembler le prototype fina
     </h2>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://henryvictor.github.io/case-study/media/posts/2/SuperHive_presentation_image2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://henryvictor.github.io/case-study/media/posts/2/responsive/SuperHive_presentation_image2-xs.png 384w ,https://henryvictor.github.io/case-study/media/posts/2/responsive/SuperHive_presentation_image2-sm.png 600w ,https://henryvictor.github.io/case-study/media/posts/2/responsive/SuperHive_presentation_image2-md.png 768w ,https://henryvictor.github.io/case-study/media/posts/2/responsive/SuperHive_presentation_image2-lg.png 1200w ,https://henryvictor.github.io/case-study/media/posts/2/responsive/SuperHive_presentation_image2-xl.png 1600w"  height="1200" width="1600" alt="" />
+      <img loading="lazy" src="https://henryvictor.github.io/media/posts/2/SuperHive_presentation_image2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://henryvictor.github.io/media/posts/2/responsive/SuperHive_presentation_image2-xs.png 384w ,https://henryvictor.github.io/media/posts/2/responsive/SuperHive_presentation_image2-sm.png 600w ,https://henryvictor.github.io/media/posts/2/responsive/SuperHive_presentation_image2-md.png 768w ,https://henryvictor.github.io/media/posts/2/responsive/SuperHive_presentation_image2-lg.png 1200w ,https://henryvictor.github.io/media/posts/2/responsive/SuperHive_presentation_image2-xl.png 1600w"  height="1200" width="1600" alt="" />
       
     </figure>
 
