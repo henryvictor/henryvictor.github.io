@@ -3,7 +3,7 @@
     <title>Victor Henry</title>
     <link href="https://henryvictor.github.io/feed.xml" rel="self" />
     <link href="https://henryvictor.github.io" />
-    <updated>2022-08-23T20:49:23+02:00</updated>
+    <updated>2022-09-24T17:40:16+02:00</updated>
     <author>
         <name>Victor Henry</name>
     </author>
@@ -146,7 +146,7 @@ Ces éléments réunis, nous avons été en mesure d'assembler le prototype fina
         <id>https://henryvictor.github.io/superhive-collaborative-newsletter.html</id>
             <category term="Product Design"/>
 
-        <updated>2022-08-23T19:30:11+02:00</updated>
+        <updated>2022-09-24T17:40:16+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://henryvictor.github.io/media/posts/2/SuperHive_presentation_image.png" alt="" />
@@ -276,7 +276,7 @@ Ces éléments réunis, nous avons été en mesure d'assembler le prototype fina
     </figure>
 
   <p>
-    Forts de ces nouveaux retours utilisateurs, nous avons pu confirmer l'utilité de certains changements de design tels que la section explicative permettant un mini onboarding des utilisateurs, supprimer ceux qui n'avaient pas eu l'effet escompté (comme certains textes explicatifs qui rendaient au final le layout trop lourd, et donc décourageaient l'utilisateur). Nous avons ensuite continué à travailler sur le prototype pour en faire une nouvelle version en adéquation avec les retours récents en vue d'une nouvelle série d'interviews.
+    En faisant une synthèse des interviews, nous avons pu confirmer certains choix de design proposés et mettre de côté ceux qui n'avaient pas eu l'effet escompté. En écoutant les utilisateurs nous décrire leur expérience, nous avons également été capables d'identifier certaines de leurs craintes, notamment en rapport avec la peur de s'exprimer en "public". Il s'agit la d'un sentiment que l'on retrouve, à différents degrés, sur les outils de communication numériques, de la peur de lever la main en conférence Zoom à l'appréhension ressentie avant de poster un commentaire sur un réseau social. Cette peur du jugement, du regard d'autrui sur notre contribution, notre légitimité à intervenir, pouvait s'avérer un frein puissant au bon fonctionnement d'un service tel que le notre. Nous avons donc décidé de travailler à la mise en place de stratégies qui pourraient diminuer, voir empêcher, ces phénomènes.<br>
   </p>
 
   <p>
