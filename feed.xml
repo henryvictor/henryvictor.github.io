@@ -3,12 +3,109 @@
     <title>Victor Henry</title>
     <link href="https://henryvictor.github.io/feed.xml" rel="self" />
     <link href="https://henryvictor.github.io" />
-    <updated>2022-09-24T17:40:16+02:00</updated>
+    <updated>2022-10-16T18:44:29+02:00</updated>
     <author>
         <name>Victor Henry</name>
     </author>
     <id>https://henryvictor.github.io</id>
 
+    <entry>
+        <title>Conducting user research in a highly skilled environment</title>
+        <author>
+            <name>Victor Henry</name>
+        </author>
+        <link href="https://henryvictor.github.io/conducting-user-research-for-a-highly-specific-tool-a-qualitative-approach.html"/>
+        <id>https://henryvictor.github.io/conducting-user-research-for-a-highly-specific-tool-a-qualitative-approach.html</id>
+
+        <updated>2022-10-16T18:44:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://henryvictor.github.io/media/posts/4/crit_article.jpg" alt="" />
+                    I was reached by an established national temporary work agency and was asked to take part in their project to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://henryvictor.github.io/media/posts/4/crit_article.jpg" alt="" />
+                
+  <p>
+    I was reached by an established national temporary work agency and was asked to take part in their project to create a new sourcing product aimed to be used as their employees main daily tool.
+  </p>
+
+    <h2 id="overview">
+      Overview
+    </h2>
+
+  <p>
+    As we will later see, running user interviews while designing tools with precise specifications wasn't an easy task. As we will ultimately discover, our final product obviously had to meet usability requirements while remaining as sharp as possible regarding its high end features. Being able to find the right equilibrium between massive quantitative studies — which won't entirely reflect the complexity of the final use of the product by highly skilled professionals — and qualitative user research, focusing only on the most skilled users, representing a maximum of 10% of the total company employees was our main problematic.
+  </p>
+
+  <p>
+    Ultimately, we hoped these methodological considerations would reflect on the product.<br>
+  </p>
+
+    <h2 id="problem-statement">
+      Problem statement
+    </h2>
+
+  <p>
+    Considering the amount of professional knowledge needed for such a collaboration, we early figured a heuristic approach wasn't the best option, as one can't possibly have a perfect knowledge of a specific human ressources workflow. But this brought the following question : what would then be the best research methodology given it had to be very specific without leading to a skilled only tool that would exclude non professional users?
+  </p>
+
+    <h2 id="user-and-audience">
+      User and audience
+    </h2>
+
+  <p>
+    Temporary work agencies can collaborate with variously skilled employees, from beginners manually searching for valuable profiles in the workers database to experienced workers using a combinations of tools, boolean operators and smart searches to automate their work, or create gigantic pools of premium profiles that will correspond exactly to the client's needs.<br><br>
+  </p>
+
+    <h2 id="roles-and-responsibilities">
+      Roles and responsibilities
+    </h2>
+
+  <p>
+    We assembled a compact agile team including a product owner, a development duo and a product designer. In collaboration with the product owner, we planned the first user interviews and made sure to follow our design planning.<br>
+  </p>
+
+    <h2 id="scope-and-constraints">
+      Scope and constraints
+    </h2>
+
+  <p>
+    Since we had to design a multipurpose tool, our scope was vast. Our first constraint was to insert highly technical features on a simple product frame, without making it too complicated. Our second constraint was to maintain a good visibility on professional uses of the future product.<br><br>
+  </p>
+
+    <h2 id="process-and-what-you-did">
+      Process and what you did
+    </h2>
+
+  <p>
+    As the design phase was going along, we started reaching "power workers" and tried to understand their problematics through long interviews with many opened questions as well as casual chatting. We soon discovered those interviews were real goldmines of informations, even though interviewees weren't entirely sure about what they were telling us. Of course, we recorded every bit of information during the interview.
+  </p>
+
+  <p>
+    As the product was growing, we managed to schedule user testing phases along with every new batch of features. For each session, we would also have a separate meeting with a power user of our choice to check for features viability and also to ideate on future concepts.
+  </p>
+
+  <p>
+    An important point in our decision making during the conception phase was to always rely on average users interviews, beginners and non professional users, to decide how the product should display its key features. For example, during the first sprint, we were confronted to a situation were an important Call to Action was, at first, located in a sub optimal spot regarding common uses in product design. Our power user interviewee told us it was a great spot in his opinion, as it would favor some really niche use of the product. Though, after testing more predictable spots with our common users, we decided to change the CTA position to the spot that made more sense for the average user, as power users are less vulnerable to these kind of changes and can easily adapt to a different layout.
+  </p>
+
+    <h2 id="outcomes-and-lessons">
+      Outcomes and lessons
+    </h2>
+
+  <p>
+    At the end of this process, after integrating some key features around our product main frame, we decided our main goal was achieved. We managed to develop most of the main features, user testings were giving good feedbacks regarding usability.
+  </p>
+
+  <p>
+    At the end of the day, the team and I had realized how functional power users testing was. A powerful way to get specific insights, but you shouldn't rely on it regarding accessibility standards or basic usability.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cavas Security App</title>
         <author>
