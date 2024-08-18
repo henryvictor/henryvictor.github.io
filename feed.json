@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://henryvictor.github.io/versecraft-2.html",
+            "url": "https://henryvictor.github.io/versecraft-2.html",
+            "title": "Versecraft",
+            "summary": "Versecraft",
+            "content_html": "<div><a href=\"https://henryvictor.github.io/versecraft/\">Versecraft</a></div>",
+            "image": "https://henryvictor.github.io/media/posts/6/favicon_light.svg",
+            "author": {
+                "name": "Victor Henry"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-19T00:22:22+02:00",
+            "date_modified": "2024-08-19T00:22:22+02:00"
+        },
+        {
             "id": "https://henryvictor.github.io/cavas-security-app-2.html",
             "url": "https://henryvictor.github.io/cavas-security-app-2.html",
             "title": "Cavas Security App",

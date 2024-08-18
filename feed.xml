@@ -3,12 +3,34 @@
     <title>Victor Henry</title>
     <link href="https://henryvictor.github.io/feed.xml" rel="self" />
     <link href="https://henryvictor.github.io" />
-    <updated>2022-09-24T17:40:16+02:00</updated>
+    <updated>2024-08-19T00:22:22+02:00</updated>
     <author>
         <name>Victor Henry</name>
     </author>
     <id>https://henryvictor.github.io</id>
 
+    <entry>
+        <title>Versecraft</title>
+        <author>
+            <name>Victor Henry</name>
+        </author>
+        <link href="https://henryvictor.github.io/versecraft-2.html"/>
+        <id>https://henryvictor.github.io/versecraft-2.html</id>
+
+        <updated>2024-08-19T00:22:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://henryvictor.github.io/media/posts/6/favicon_light.svg" alt="" />
+                    Versecraft
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://henryvictor.github.io/media/posts/6/favicon_light.svg" alt="" />
+                <div><a href="https://henryvictor.github.io/versecraft/">Versecraft</a></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cavas Security App</title>
         <author>
