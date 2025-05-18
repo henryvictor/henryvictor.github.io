@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://henryvictor.github.io/versecraft-3.html",
+            "url": "https://henryvictor.github.io/versecraft-3.html",
+            "title": "Tech Cards Generator",
+            "summary": "My completely useless (yet very cool) card generator. Have a look: Tech Cards Generator Uses Colormind request color palettes (site&hellip;",
+            "content_html": "<div><p>My completely useless (yet very cool) card generator.</p>\n<p>Have a look: <a href=\"https://henryvictor.github.io/tech-cards-generator/\">Tech Cards Generator</a></p>\n</div>\n\n  <p>\n    Uses Colormind request color palettes (site now uses a static selection of colors as there is no point sending their API a request each time the user would press the color scheme change button)\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://henryvictor.github.io/media/posts/7/favicon_light.svg",
+            "author": {
+                "name": "Victor Henry"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2025-05-18T03:50:05+02:00",
+            "date_modified": "2025-05-18T03:50:05+02:00"
+        },
+        {
             "id": "https://henryvictor.github.io/versecraft-2.html",
             "url": "https://henryvictor.github.io/versecraft-2.html",
             "title": "Versecraft",

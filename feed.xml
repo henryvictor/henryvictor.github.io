@@ -3,12 +3,45 @@
     <title>Victor Henry</title>
     <link href="https://henryvictor.github.io/feed.xml" rel="self" />
     <link href="https://henryvictor.github.io" />
-    <updated>2024-08-19T01:27:19+02:00</updated>
+    <updated>2025-05-18T03:50:05+02:00</updated>
     <author>
         <name>Victor Henry</name>
     </author>
     <id>https://henryvictor.github.io</id>
 
+    <entry>
+        <title>Tech Cards Generator</title>
+        <author>
+            <name>Victor Henry</name>
+        </author>
+        <link href="https://henryvictor.github.io/versecraft-3.html"/>
+        <id>https://henryvictor.github.io/versecraft-3.html</id>
+            <category term="Projects"/>
+
+        <updated>2025-05-18T03:50:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://henryvictor.github.io/media/posts/7/favicon_light.svg" alt="" />
+                    My completely useless (yet very cool) card generator. Have a look: Tech Cards Generator Uses Colormind request color palettes (site&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://henryvictor.github.io/media/posts/7/favicon_light.svg" alt="" />
+                <div><p>My completely useless (yet very cool) card generator.</p>
+<p>Have a look: <a href="https://henryvictor.github.io/tech-cards-generator/">Tech Cards Generator</a></p>
+</div>
+
+  <p>
+    Uses Colormind request color palettes (site now uses a static selection of colors as there is no point sending their API a request each time the user would press the color scheme change button)
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Versecraft</title>
         <author>
