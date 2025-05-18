@@ -3,12 +3,45 @@
     <title>Victor Henry</title>
     <link href="https://henryvictor.github.io/feed.xml" rel="self" />
     <link href="https://henryvictor.github.io" />
-    <updated>2025-05-18T03:56:22+02:00</updated>
+    <updated>2025-05-18T04:13:59+02:00</updated>
     <author>
         <name>Victor Henry</name>
     </author>
     <id>https://henryvictor.github.io</id>
 
+    <entry>
+        <title>Révision permis</title>
+        <author>
+            <name>Victor Henry</name>
+        </author>
+        <link href="https://henryvictor.github.io/revision-permis.html"/>
+        <id>https://henryvictor.github.io/revision-permis.html</id>
+            <category term="Projects"/>
+
+        <updated>2025-05-18T04:13:59+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://henryvictor.github.io/media/posts/8/Capture-decran-2025-05-18-a-04.13.24.png" alt="" />
+                    A little tool that could reveal quite useful to review french driving licence road safety questions Check it out here:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://henryvictor.github.io/media/posts/8/Capture-decran-2025-05-18-a-04.13.24.png" alt="" />
+                <div><p>A little tool that could reveal quite useful to review french driving licence road safety questions</p>
+<p>Check it out here: <a href="https://henryvictor.github.io/revision-permis/">Révision permis</a></p>
+</div>
+
+  <p>
+    Questions data comes from the official database of the french Ministère de l'intérieur but is hardcoded. Right now it seems there is no source available to fetch the data (except scraping the source, which would be a real pain, for uncertain results) and thus update it. I will probably update the code if such a source appears in the future.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tech Cards Generator</title>
         <author>

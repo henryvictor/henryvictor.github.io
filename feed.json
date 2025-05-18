@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://henryvictor.github.io/revision-permis.html",
+            "url": "https://henryvictor.github.io/revision-permis.html",
+            "title": "Révision permis",
+            "summary": "A little tool that could reveal quite useful to review french driving licence road safety questions Check it out here:&hellip;",
+            "content_html": "<div><p>A little tool that could reveal quite useful to review french driving licence road safety questions</p>\n<p>Check it out here: <a href=\"https://henryvictor.github.io/revision-permis/\">Révision permis</a></p>\n</div>\n\n  <p>\n    Questions data comes from the official database of the french Ministère de l'intérieur but is hardcoded. Right now it seems there is no source available to fetch the data (except scraping the source, which would be a real pain, for uncertain results) and thus update it. I will probably update the code if such a source appears in the future.\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://henryvictor.github.io/media/posts/8/Capture-decran-2025-05-18-a-04.13.24.png",
+            "author": {
+                "name": "Victor Henry"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2025-05-18T04:13:59+02:00",
+            "date_modified": "2025-05-18T04:13:59+02:00"
+        },
+        {
             "id": "https://henryvictor.github.io/versecraft-3.html",
             "url": "https://henryvictor.github.io/versecraft-3.html",
             "title": "Tech Cards Generator",
