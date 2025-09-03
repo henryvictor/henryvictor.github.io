@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://henryvictor.github.io/revision-permis.html",
-            "url": "https://henryvictor.github.io/revision-permis.html",
+            "id": "https://henryvictor.github.io/revision-permis/",
+            "url": "https://henryvictor.github.io/revision-permis/",
             "title": "Révision permis",
             "summary": "A little tool that could reveal quite useful to review french driving licence road safety questions Check it out here:&hellip;",
             "content_html": "<div><p>A little tool that could reveal quite useful to review french driving licence road safety questions</p>\n<p>Check it out here: <a href=\"https://henryvictor.github.io/revision-permis/\">Révision permis</a></p>\n</div>\n\n  <p>\n    Questions data comes from the official database of the french Ministère de l'intérieur but is hardcoded. Right now it seems there is no source available to fetch the data (except scraping the source, which would be a real pain, for uncertain results) and thus update it. I will probably update the code if such a source appears in the future.\n  </p>\n\n  <p>\n    \n  </p>",
@@ -26,8 +26,8 @@
             "date_modified": "2025-05-18T04:13:59+02:00"
         },
         {
-            "id": "https://henryvictor.github.io/versecraft-3.html",
-            "url": "https://henryvictor.github.io/versecraft-3.html",
+            "id": "https://henryvictor.github.io/versecraft-3/",
+            "url": "https://henryvictor.github.io/versecraft-3/",
             "title": "Tech Cards Generator",
             "summary": "My completely useless (yet very cool) card generator. Have a look: Tech Cards Generator Uses Colormind request color palettes (site&hellip;",
             "content_html": "<div><p>My completely useless (yet very cool) card generator.</p>\n<p>Have a look: <a href=\"https://henryvictor.github.io/tech-cards-generator/\">Tech Cards Generator</a></p>\n</div>\n\n  <p>\n    Uses Colormind request color palettes (site now uses a static selection of colors as there is no point sending their API a request each time the user would press the color scheme change button)\n  </p>\n\n  <p>\n    \n  </p>",
@@ -42,8 +42,8 @@
             "date_modified": "2025-05-18T03:51:36+02:00"
         },
         {
-            "id": "https://henryvictor.github.io/versecraft-2.html",
-            "url": "https://henryvictor.github.io/versecraft-2.html",
+            "id": "https://henryvictor.github.io/versecraft-2/",
+            "url": "https://henryvictor.github.io/versecraft-2/",
             "title": "Versecraft",
             "summary": "My nifty tool dedicated to poetry. Have a look:",
             "content_html": "<div><p>My nifty tool dedicated to poetry. Have a look:</p>\n<a href=\"https://henryvictor.github.io/versecraft/\">Versecraft</a></div>\n\n  <p>\n    \n  </p>",
