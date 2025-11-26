@@ -13,8 +13,8 @@
             "id": "https://henryvictor.github.io/revision-permis/",
             "url": "https://henryvictor.github.io/revision-permis/",
             "title": "Révision permis",
-            "summary": "A little tool that could reveal quite useful to review french driving licence road safety questions Check it out here:&hellip;",
-            "content_html": "<div><p>A little tool that could reveal quite useful to review french driving licence road safety questions</p>\n<p>Check it out here: <a href=\"https://henryvictor.github.io/revision-permis/\">Révision permis</a></p>\n</div>\n\n  <p>\n    Questions data comes from the official database of the french Ministère de l'intérieur but is hardcoded. Right now it seems there is no source available to fetch the data (except scraping the source, which would be a real pain, for uncertain results) and thus update it. I will probably update the code if such a source appears in the future.\n  </p>\n\n  <p>\n    \n  </p>",
+            "summary": "Révision permis Les données des questions proviennent de la base officielle du Ministère de l'intérieur mais sont placées en dur&hellip;",
+            "content_html": "<div><a href=\"https://henryvictor.github.io/revision-permis/\">Révision permis</a>\n</div>\n\n  <p>\n    Les données des questions proviennent de la base officielle du Ministère de l'intérieur mais sont placées en dur dans le code. Il ne semble pas y avoir actuellement de sources stables qui permettraient de récupérer des données fiables et actualisées, en dehors du scraping (qui comporte son lot de désavantages). Si une telle source était rendue disponible dans le futur, j'adapterai le code en conséquence, afin de garantir l'actualité des informations de l'outil.\n  </p>",
             "image": "https://henryvictor.github.io/media/posts/8/Capture-decran-2025-05-18-a-04.13.24.png",
             "author": {
                 "name": "Victor Henry"
@@ -23,14 +23,14 @@
                    "Projects"
             ],
             "date_published": "2025-05-18T04:13:59+02:00",
-            "date_modified": "2025-05-18T04:13:59+02:00"
+            "date_modified": "2025-11-26T19:00:25+01:00"
         },
         {
             "id": "https://henryvictor.github.io/versecraft-3/",
             "url": "https://henryvictor.github.io/versecraft-3/",
             "title": "Tech Cards Generator",
-            "summary": "My completely useless (yet very cool) card generator. Have a look: Tech Cards Generator Uses Colormind request color palettes (site&hellip;",
-            "content_html": "<div><p>My completely useless (yet very cool) card generator.</p>\n<p>Have a look: <a href=\"https://henryvictor.github.io/tech-cards-generator/\">Tech Cards Generator</a></p>\n</div>\n\n  <p>\n    Uses Colormind request color palettes (site now uses a static selection of colors as there is no point sending their API a request each time the user would press the color scheme change button)\n  </p>\n\n  <p>\n    \n  </p>",
+            "summary": "Tech Cards Generator L'outil original utilise l'API mise à disposition par Colormind pour obtenir des palettes de couleurs. Ces palettes&hellip;",
+            "content_html": "<div><a href=\"https://henryvictor.github.io/tech-cards-generator/\">Tech Cards Generator</a>\n</div>\n\n  <p>\n    L'outil original utilise l'API mise à disposition par Colormind pour obtenir des palettes de couleurs. Ces palettes sont ensuite filtrées au travers d'un algorithme très simple comparant les valeurs de luminance de chaque couleur afin de les comparer pour finalement éliminer les palettes qui ne fourniraient pas un contraste suffisant (la luminance est utilisée comme proxy afin d'éviter un calcul  beaucoup plus compliqué faisant appel aux autres - nombreuses - valeurs qui composent une couleur).\n  </p>\n\n  <p>\n    La version présentée ici fonctionne sur un set pré-établi de palettes de couleurs (en dur dans le code) afin d'éviter d'envoyer des requêtes inutiles.\n  </p>",
             "image": "https://henryvictor.github.io/media/posts/7/Capture-decran-2025-05-18-a-03.44.41.png",
             "author": {
                 "name": "Victor Henry"
@@ -39,14 +39,14 @@
                    "Projects"
             ],
             "date_published": "2025-05-18T03:50:05+02:00",
-            "date_modified": "2025-05-18T03:51:36+02:00"
+            "date_modified": "2025-11-26T19:00:18+01:00"
         },
         {
             "id": "https://henryvictor.github.io/versecraft-2/",
             "url": "https://henryvictor.github.io/versecraft-2/",
             "title": "Versecraft",
-            "summary": "My nifty tool dedicated to poetry. Have a look:",
-            "content_html": "<div><p>My nifty tool dedicated to poetry. Have a look:</p>\n<a href=\"https://henryvictor.github.io/versecraft/\">Versecraft</a></div>\n\n  <p>\n    \n  </p>",
+            "summary": "Versecraft Un outil permettant de composer et d'exporter des poèmes en suivant le nombre de syllabes et le format souhaité.",
+            "content_html": "<div><a href=\"https://henryvictor.github.io/versecraft/\">Versecraft</a></div>\n\n  <p>\n    Un outil permettant de composer et d'exporter des poèmes en suivant le nombre de syllabes et le format souhaité. En langue française, aboutir à un système comptant correctement les syllabes d'un mot constitue un certain challenge.\n  </p>",
             "image": "https://henryvictor.github.io/media/posts/6/Capture-decran-2025-05-18-a-03.56.01.png",
             "author": {
                 "name": "Victor Henry"
@@ -55,7 +55,7 @@
                    "Projects"
             ],
             "date_published": "2024-08-19T00:22:22+02:00",
-            "date_modified": "2025-05-18T03:56:22+02:00"
+            "date_modified": "2025-11-26T19:03:04+01:00"
         }
     ]
 }
